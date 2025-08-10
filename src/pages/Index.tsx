@@ -372,11 +372,11 @@ const Index = () => {
             </div>
             
             <div>
-              <h4 className="font-montserrat font-semibold text-gaming-white mb-4">Поддержка</h4>
+              <h4 className="font-montserrat font-semibold text-gaming-white mb-4"></h4>
               <ul className="space-y-2">
-                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors">FAQ</a></li>
-                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors">Контакты</a></li>
-                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors">Помощь</a></li>
+                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors"></a></li>
+                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors"></a></li>
+                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors"></a></li>
               </ul>
             </div>
             
