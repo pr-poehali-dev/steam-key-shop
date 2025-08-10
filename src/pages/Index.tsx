@@ -381,11 +381,11 @@ const Index = () => {
             </div>
             
             <div>
-              <h4 className="font-montserrat font-semibold text-gaming-white mb-4">Связь</h4>
+              <h4 className="font-montserrat font-semibold text-gaming-white mb-4"></h4>
               <ul className="space-y-2">
-                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors">Telegram</a></li>
-                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors">Email</a></li>
-                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors">Discord</a></li>
+                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors"></a></li>
+                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors">email поддержки: support@steamkeys.ru</a></li>
+                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors"></a></li>
               </ul>
             </div>
           </div>
