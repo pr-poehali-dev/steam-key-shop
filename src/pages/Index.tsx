@@ -381,15 +381,12 @@ const Index = () => {
             </div>
             
             <div>
-              <h4 className="font-montserrat font-semibold text-gaming-white mb-4">Следите за нами</h4>
-              <div className="flex space-x-4">
-                <Button size="sm" variant="outline" className="border-gaming-pink text-gaming-pink hover:bg-gaming-pink hover:text-white">
-                  <Icon name="MessageCircle" size={16} />
-                </Button>
-                <Button size="sm" variant="outline" className="border-gaming-pink text-gaming-pink hover:bg-gaming-pink hover:text-white">
-                  <Icon name="Users" size={16} />
-                </Button>
-              </div>
+              <h4 className="font-montserrat font-semibold text-gaming-white mb-4">Связь</h4>
+              <ul className="space-y-2">
+                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors">Telegram</a></li>
+                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors">Email</a></li>
+                <li><a href="#" className="text-gray-400 hover:text-gaming-pink transition-colors">Discord</a></li>
+              </ul>
             </div>
           </div>
           
